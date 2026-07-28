@@ -1,18 +1,18 @@
 {
-    "id": 6767676767,
-    "name": "Windy Landscape",
-    "author": "[]",
-    "creators": ["hi", "a"],
-    "verifier": "Mikaelx",
-    "verification": "",
+    "id": 57436521,
+    "name": "SampleLevel1",
+    "author": "LevelUploader",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "Verifier",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": 56,
-    "password": "",
+    "password": "Not Copyable",
     "records": [
         {
-            "user": "Mikaelx",
-            "link": "",
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 60
+            "hz": 360
         }
     ]
 }
