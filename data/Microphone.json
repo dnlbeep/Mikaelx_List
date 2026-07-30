@@ -1,0 +1,18 @@
+{
+    "id": 676767,
+    "name": "Microphone",
+    "author": "",
+    "creators": ["Creator1"],
+    "verifier": "Mikaelx",
+    "verification": "",
+    "percentToQualify": 56,
+    "password": "",
+    "records": [
+        {
+            "user": "Mikaelx",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
