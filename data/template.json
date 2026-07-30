@@ -1,1 +1,18 @@
-
+{
+    "id": 676767,
+    "name": "",
+    "author": "",
+    "creators": ["Creator1"],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": 56,
+    "password": "",
+    "records": [
+        {
+            "user": "",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
