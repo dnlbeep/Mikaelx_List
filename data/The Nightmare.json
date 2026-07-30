@@ -1,0 +1,18 @@
+{
+    "id": 676767,
+    "name": "Windy Landscape",
+    "author": "",
+    "creators": ["Creator1"],
+    "verifier": "RobTopBootypic",
+    "verification": "",
+    "percentToQualify": 56,
+    "password": "",
+    "records": [
+        {
+            "user": "RobTopBootypic",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
