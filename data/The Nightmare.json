@@ -8,17 +8,14 @@
     "percentToQualify": 56,
     "password": "",
     "records": [
-        {
-            "user": "RobTopBootypic",
+        {"user": "RobTopBootypic",
             "link": "",
             "percent": 100,
-            "hz": 60
-        }
-                {
-            "user": "Mikaelx",
+            "hz": 60},
+        
+        {"user": "Mikaelx",
             "link": "",
             "percent": 100,
-            "hz": 60
-        }
+            "hz": 60}
     ]
 }
