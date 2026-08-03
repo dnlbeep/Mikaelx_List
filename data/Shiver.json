@@ -1,0 +1,16 @@
+{
+    "id": 676767,
+    "name": "Shiver",
+    "author": "",
+    "creators": ["Creator1"],
+    "verifier": "RobTopBootypic",
+    "verification": "",
+    "percentToQualify": 65,
+    "password": "",
+    "records": [
+        {"user": "Mikaelx",
+            "link": "",
+            "percent": 100,
+            "hz": 60}
+    ]
+}
