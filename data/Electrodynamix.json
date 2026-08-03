@@ -1,0 +1,16 @@
+{
+    "id": 676767,
+    "name": "Electrodynamix",
+    "author": "",
+    "creators": ["Creator1"],
+    "verifier": "RobTopBootypic",
+    "verification": "",
+    "percentToQualify": 35,
+    "password": "",
+    "records": [
+        {"user": "Mikaelx",
+            "link": "",
+            "percent": 100,
+            "hz": 60}
+    ]
+}
